@@ -1,7 +1,4 @@
 
----
-
-```md
 # User Registration Form (Node.js + MongoDB)
 
 A simple **User Registration web application** built using **Node.js, Express, MongoDB (Mongoose)** and **Tailwind CSS**.  
