@@ -145,7 +145,4 @@ This project is open-source and available under the **MIT License**.
 
 ### ⭐ If you like this project, give it a star!
 
-```
 
-
-```
